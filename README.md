@@ -1,2 +1,2 @@
 # tasks-flask-crud
-Curso RocketSeat Python
+Curso de Python RocketSeat
